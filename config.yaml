@@ -9,7 +9,7 @@ googleAnalytics: G-DWJJVE27WD
 markup:
   goldmark:
     renderer:
-      unsafe: false
+      unsafe: true
 
 Menus:
   main:
