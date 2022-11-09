@@ -1,0 +1,31 @@
+---
+title: First post!
+author: Magnus Nygård Osnes
+date: '2022-11-09'
+slug: []
+categories:
+  - Hugo
+tags: []
+image: ~
+description: ~
+toc: ~
+---
+
+# Testing how to run hugo with r markdown
+
+
+
+Proof of concept. 
+
+
+```{r remedy001}
+#Testing a simple plot
+plot(1,1)
+```
+
+# Tesiting that the second entry shows up
+Yep, it did show up.
+
+## Testing that the third entry did show up
+Yep, it did show up. 
+

@@ -259,7 +259,7 @@ params:
         content: Genome epidemiology of Neisseria gonorrhoeae and SARS-CoV-2 Strain dynamics from the level of individuals to global dissemination.
         image: /images/projects/Doctoral.jpeg
         featured:
-          name: Doctoral thesis
+          name: Doctoral     thesis
           link: https://www.duo.uio.no/handle/10852/93907
         # badges:
         #   - "Hugo"
