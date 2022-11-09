@@ -2,7 +2,6 @@ baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: "hugo-profile"
-
 Paginate: 3
 disqusShortname: gurusabarish
 googleAnalytics: G-DWJJVE27WD
@@ -10,7 +9,7 @@ googleAnalytics: G-DWJJVE27WD
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: false
 
 Menus:
   main:

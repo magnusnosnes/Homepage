@@ -9,28 +9,24 @@ tags: []
 image: ~
 description: ~
 toc: ~
-output: md_document
 ---
 
 # Testing how to run hugo with r markdown
 
+Proof of concept.
 
+    #Testing a simple plot
+    plot(seq(1,10), seq(1,10),xlab="x-axis",ylab="y-axis")
+    lines(seq(10,1),seq(1,10),type="l", lty=2)
 
-Proof of concept. 
-
-
-```{r remedy001, fig.width=3, fig.height=3}
-#Testing a simple plot
-plot(seq(1,10), seq(1,10),xlab="x-axis",ylab="y-axis")
-lines(seq(10,1),seq(1,10),type="l", lty=2)
-```
-
+![](index_files/figure-markdown_strict/remedy001-1.png)
 
 # Tesiting that the second entry shows up
+
 Yep, it did show up.
 
 ## Testing that the third entry did show up
-Yep, it did show up. 
+
+Yep, it did show up.
 
 # testing something here
-
