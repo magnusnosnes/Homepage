@@ -7,7 +7,7 @@ categories: []
 tags: []
 image: ~
 description: ~
-toc: ~
+toc: true
 ---
 
 # Test
@@ -23,3 +23,5 @@ legend("topright", legend = levels(iris$Species), col = 1:3, pch = 21)
 <img src="{{< blogdown/postref >}}index_files/figure-html/remedy001-1.png" width="672" />
 
 # Test 2
+
+# Test 3
